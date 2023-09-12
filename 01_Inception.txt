@@ -1,0 +1,11 @@
+Basic User Operations :
+1. It should record new admissions and delete admission of class 1 to 8th;
+2. It should view the records of a student in terms of his personal information;
+3. It should view the records of a student in terms of his fees.
+4. It should have mechanism to submit fees.
+5. It should have the mechanism to tell how many students have fees unsubmitted from 3 months.
+
+
+
+Auxilliary books for weak financial conditions :
+

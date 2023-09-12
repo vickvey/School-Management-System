@@ -1,0 +1,191 @@
+{
+    "Classes": {
+        "0": {
+            "cap": 30,
+            "class_type": 0,
+            "students": {
+                "2": {
+                    "1": {
+                        "aadhar_number": "527597597250",
+                        "date_of_birth": "09/09/20",
+                        "father_name": "givan",
+                        "name": "vivek"
+                    }
+                }
+            }
+        },
+        "1": {
+            "cap": 30,
+            "class_type": 1,
+            "students": null
+        },
+        "10": {
+            "cap": 30,
+            "class_type": 10,
+            "students": null
+        },
+        "11": {
+            "cap": 30,
+            "class_type": 11,
+            "students": null
+        },
+        "12": {
+            "cap": 30,
+            "class_type": 12,
+            "students": null
+        },
+        "2": {
+            "cap": 30,
+            "class_type": 2,
+            "students": null
+        },
+        "3": {
+            "cap": 30,
+            "class_type": 3,
+            "students": null
+        },
+        "4": {
+            "cap": 30,
+            "class_type": 4,
+            "students": null
+        },
+        "5": {
+            "cap": 30,
+            "class_type": 5,
+            "students": null
+        },
+        "6": {
+            "cap": 30,
+            "class_type": 6,
+            "students": null
+        },
+        "7": {
+            "cap": 30,
+            "class_type": 7,
+            "students": null
+        },
+        "8": {
+            "cap": 30,
+            "class_type": 8,
+            "students": null
+        },
+        "9": {
+            "cap": 30,
+            "class_type": 9,
+            "students": null
+        }
+    },
+    "finance_dept": {
+        "studentsByGrade": {
+            "0": {
+                "-1": {
+                    "fee_months_submitted": [
+                        false,
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "fee_submitted": [
+                        0.0,
+                        200.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "last_month_fees_submitted": 1
+                },
+                "2": {
+                    "fee_months_submitted": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "fee_submitted": [
+                        100.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "last_month_fees_submitted": 0
+                }
+            },
+            "1": null,
+            "10": null,
+            "11": null,
+            "12": {
+                "2": {
+                    "fee_months_submitted": [
+                        true,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false,
+                        false
+                    ],
+                    "fee_submitted": [
+                        4000.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ],
+                    "last_month_fees_submitted": 0
+                }
+            },
+            "2": null,
+            "3": null,
+            "4": null,
+            "5": null,
+            "6": null,
+            "7": null,
+            "8": null,
+            "9": null
+        }
+    },
+    "name_of_school": "ABC PUBLIC SCHOOL"
+}
